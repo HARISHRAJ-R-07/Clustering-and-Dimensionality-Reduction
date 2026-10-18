@@ -1,0 +1,12 @@
+# Mall Customer Segmentation — Python dependencies
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+openpyxl
+plotly
+nbformat
+jupyter
+ipykernel
